@@ -40,12 +40,11 @@
     "This action is unauthorized.": "This action is unauthorized.",
     "This password reset link will expire in :count minutes.": "This password reset link will expire in :count minutes.",
     "to": "to",
+    "To website": "To website",
     "Toggle navigation": "Toggle navigation",
     "Too Many Requests": "Too Many Requests",
     "Unauthorized": "Unauthorized",
     "Verify Email Address": "Verify Email Address",
     "Whoops!": "Whoops!",
-    "You are receiving this email because we received a password reset request for your account.": "You are receiving this email because we received a password reset request for your account.",
-
-    "To website": "To website"
+    "You are receiving this email because we received a password reset request for your account.": "You are receiving this email because we received a password reset request for your account."
 }

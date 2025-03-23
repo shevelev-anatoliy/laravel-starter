@@ -40,12 +40,11 @@
     "This action is unauthorized.": "Действие не авторизовано.",
     "This password reset link will expire in :count minutes.": "Срок действия ссылки для сброса пароля истекает через :count минут.",
     "to": "по",
+    "To website": "На сайт",
     "Toggle navigation": "Переключить навигацию",
     "Too Many Requests": "Слишком много запросов",
     "Unauthorized": "Не авторизован",
     "Verify Email Address": "Подтвердить адрес электронной почты",
     "Whoops!": "Упс!",
-    "You are receiving this email because we received a password reset request for your account.": "Вы получили это письмо, потому что мы получили запрос на сброс пароля для Вашей учётной записи.",
-
-    "To website": "На сайт"
+    "You are receiving this email because we received a password reset request for your account.": "Вы получили это письмо, потому что мы получили запрос на сброс пароля для Вашей учётной записи."
 }
