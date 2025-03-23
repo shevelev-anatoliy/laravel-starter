@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "moonshine/app",
+    "name": "shevelev-anatoliy/laravel-starter",
     "type": "project",
     "description": "The skeleton application for the Laravel framework with MoonShine.",
     "keywords": [
@@ -24,7 +24,8 @@
         "laravel/sail": "^1.41",
         "mockery/mockery": "^1.6",
         "nunomaduro/collision": "^8.6",
-        "phpunit/phpunit": "^11.5.3"
+        "phpunit/phpunit": "^11.5.3",
+        "roave/security-advisories": "dev-latest"
     },
     "autoload": {
         "psr-4": {
