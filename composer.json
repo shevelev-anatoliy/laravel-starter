@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "shevelev-anatoliy/laravel-starter",
+    "name": "shevl-dev/laravel-starter",
     "type": "project",
     "description": "The skeleton application for the Laravel framework with MoonShine.",
     "keywords": [
