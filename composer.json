@@ -16,6 +16,7 @@
         "moonshine/moonshine": "^3.8"
     },
     "require-dev": {
+        "barryvdh/laravel-debugbar": "^3.15",
         "fakerphp/faker": "^1.23",
         "laravel-lang/lang": "^15.19",
         "laravel-lang/moonshine": "^1.3",
